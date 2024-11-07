@@ -52,7 +52,7 @@ Our aim is to develop a model able to provide a live sentiment analysis with a v
 
 ---
 
-### Video Analysis - [Read More . . .](https://github.com/aryasoni98/AI-Interview/wiki/Video-Analysis)
+### Video Analysis - [Read More . . .](https://github.com/kanak6040/AI-Interview/wiki/Video-Analysis)
 <br>
 <p>
     <img src="./Images/Video.png" width="600" height="300"/>
@@ -60,7 +60,7 @@ Our aim is to develop a model able to provide a live sentiment analysis with a v
 
 ---
 
-### Audio Analysis - [Read More . . . ](https://github.com/aryasoni98/AI-Interview/wiki/Audio-Analysis)
+### Audio Analysis - [Read More . . . ](https://github.com/kanak6040/AI-Interview/wiki/Audio-Analysis)
 <br>
 <p>
     <img src="./Images/Audio.png" width="600" height="300"/>
